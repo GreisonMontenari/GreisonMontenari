@@ -47,7 +47,7 @@ Estou criando um toolkit open source para análise de dados:
 ### 📬 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/greisonmontenari)  
-📧 greison.montenari@gmail.com
+📧 greisonmontenari02@gmail.com
 
 ---
 
